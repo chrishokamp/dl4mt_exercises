@@ -9,3 +9,5 @@ Tricks: drop-out, distributed training, Hessian-free optimization, ReLu, etc.
 Goal: Prep and setup.
 Compare logistic regression, MLP, and stacked auto-encoders on same data
 Challenges: Implement tricks
+
+
