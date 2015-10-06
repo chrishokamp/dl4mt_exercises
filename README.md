@@ -10,4 +10,10 @@ Goal: Prep and setup.
 Compare logistic regression, MLP, and stacked auto-encoders on same data
 Challenges: Implement tricks
 
+_Resources and Inspirations Used to Create these Tutorials_
+
+http://deeplearning.net/tutorial/dA.html
+
+http://deeplearning.net/tutorial/SdA.html
+
 
