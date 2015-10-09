@@ -1,4 +1,4 @@
-_An Introduction to Deep Learning with Theano_
+**An Introduction to Deep Learning with Theano**
 
 Fundamentals for DL4MT  I
 
@@ -10,13 +10,13 @@ Goal: Prep and setup.
 Compare logistic regression, MLP, and stacked auto-encoders on same data
 Challenges: Implement tricks
 
-_Installation and Setup_
+***Installation and Setup***
 
 Please also make sure that you are using the bleeding edge version of theano from github. Installation instructions are [here](http://deeplearning.net/software/theano/install_ubuntu.html#bleeding-edge-installs). 
 
 These labs use [Fuel](http://fuel.readthedocs.org/en/latest/setup.html) to build, load, and iterate over datasets, please install that first. 
 
-_Resources and Inspirations Used to Create these Tutorials_
+***Resources and Inspirations Used to Create these Tutorials***
 
 http://deeplearning.net/tutorial/dA.html
 
