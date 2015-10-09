@@ -10,10 +10,25 @@ Goal: Prep and setup.
 Compare logistic regression, MLP, and stacked auto-encoders on same data
 Challenges: Implement tricks
 
+_Installation and Setup_
+
+Please also make sure that you are using the bleeding edge version of theano from github. Installation instructions are [here](http://deeplearning.net/software/theano/install_ubuntu.html#bleeding-edge-installs). 
+
+These labs use [Fuel](http://fuel.readthedocs.org/en/latest/setup.html) to build, load, and iterate over datasets, please install that first. 
+
 _Resources and Inspirations Used to Create these Tutorials_
 
 http://deeplearning.net/tutorial/dA.html
 
 http://deeplearning.net/tutorial/SdA.html
+
+Please work through the notebooks in the following order:
+
+1- prep_text_classification_corpus.ipynb
+2- prep_pos_corpus.ipynb
+3- baseline_logistic_regression_pos_tagging.ipynb
+4- theano_logistic_regression_pos_tagging.ipynb
+5- theano_autoencoder.ipynb
+
 
 
