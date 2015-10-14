@@ -24,6 +24,10 @@ Please also make sure that you are using the bleeding edge version of theano fro
 
 These labs use [Fuel](http://fuel.readthedocs.org/en/latest/setup.html) to build, load, and iterate over datasets, please install that first. 
 
+***Memory and Disk Space Management***
+If you are using the Virtual Machine provided for the exercises, you may find the available memory getting low. Once you have worked through a notebook, you can close it to free up the RAM used by that kernel. 
+
+
 ***Resources and Inspirations Used to Create these Tutorials***
 
 http://deeplearning.net/tutorial/dA.html
