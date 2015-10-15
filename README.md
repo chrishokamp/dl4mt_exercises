@@ -10,13 +10,22 @@ Goal: Prep and setup.
 Compare logistic regression, MLP, and stacked auto-encoders on same data
 Challenges: Implement tricks
 
-**Please work through the notebooks in the following order:**
 
-1- prep_text_classification_corpus.ipynb     
-2- prep_pos_corpus.ipynb     
-3- baseline_logistic_regression_pos_tagging.ipynb      
-4- theano_logistic_regression_pos_tagging.ipynb      
-5- theano_autoencoder.ipynb      
+**Day 1**
+***Please work through the notebooks in the following order:***
+
+- prep_pos_corpus.ipynb     
+- word_window_vectors.ipynb
+- baseline_sklearn_classifiers.ipynb
+- theano_logistic_regression.ipynb
+- mlp_.ipynb
+- theano_autoencoder.ipynb      
+
+**Day 2**
+
+TODO: write instructions
+
+**Completing the labs**
 
 As you work through the notebooks, you will notice that some of the cells use the %%writefile magic at the top of the cell to write the content to a file. This is done for classes and functions which will be used in later notebooks. In order for the save paths to work correctly, you need to be running `ipython notebook` inside the directory for that day. 
 
