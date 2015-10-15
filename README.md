@@ -43,6 +43,8 @@ If you are using the Virtual Machine provided for the exercises, you may find th
 
 ***Resources and Inspirations Used to Create these Tutorials***
 
+Most of the code in these tutorials was taken from the excellent tutorials on deeplearning.net. 
+
 http://deeplearning.net/tutorial/dA.html
 
 http://deeplearning.net/tutorial/SdA.html
