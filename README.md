@@ -18,6 +18,10 @@ Challenges: Implement tricks
 4- theano_logistic_regression_pos_tagging.ipynb      
 5- theano_autoencoder.ipynb      
 
+As you work through the notebooks, you will notice that some of the cells use the %%writefile magic at the top of the cell to write the content to a file. This is done for classes and functions which will be used in later notebooks. i
+
+Every time the cell is run, the file will be overwritten, so if you want to modify the behavior of a class or function, just edit the cell where it is created, and the corresponding file will automatically update. 
+
 ***Installation and Setup***
 
 Please also make sure that you are using the bleeding edge version of theano from github. Installation instructions are [here](http://deeplearning.net/software/theano/install_ubuntu.html#bleeding-edge-installs). 
