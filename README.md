@@ -14,16 +14,20 @@ Challenges: Implement tricks
 **Day 1**
 ***Please work through the notebooks in the following order:***
 
-- prep_pos_corpus.ipynb     
-- word_window_vectors.ipynb
-- baseline_sklearn_classifiers.ipynb
+If you are new to theano, please start with the excellent tutorials from the [Montreal Deep Learning Summer School 2015](https://github.com/mila-udem/summerschool2015), and complete the following notebooks first:       
+
+- 
+
+If you are already familiar with theano, please work through the notebooks in this repository in the following order:      
+
 - theano_logistic_regression.ipynb
-- mlp_.ipynb
-- theano_autoencoder.ipynb      
+- mlp.ipynb
+- theano_autoencoder.ipynb
+- stacked_autoencoder.ipynb      
 
 **Day 2**
 
-TODO: write instructions
+TODO: add instructions
 
 **Completing the labs**
 
@@ -32,6 +36,15 @@ As you work through the notebooks, you will notice that some of the cells use th
 Every time the cell is run, the file will be overwritten, so if you want to modify the behavior of a class or function, just edit the cell where it is created, and the corresponding file will automatically update. 
 
 ***Installation and Setup***
+
+The notebooks need to be run inside the day\*/ directory, so, for example:
+
+```
+git clone https://github.com/chrishokamp/dl4mt_exercises.git
+cd dl4mt_exercises/notebooks/day1
+ipython notebook
+```
+
 
 Please also make sure that you are using the bleeding edge version of theano from github. Installation instructions are [here](http://deeplearning.net/software/theano/install_ubuntu.html#bleeding-edge-installs). 
 
@@ -43,12 +56,6 @@ If you are using the Virtual Machine provided for the exercises, you may find th
 
 ***Resources and Inspirations Used to Create these Tutorials***
 
-Most of the code in these tutorials was taken from the excellent tutorials on deeplearning.net. 
-
-http://deeplearning.net/tutorial/dA.html
-
-http://deeplearning.net/tutorial/SdA.html
-
-
+Most of the Theano code in these tutorials was taken from the [excellent tutorials on deeplearning.net](https://github.com/lisa-lab/DeepLearningTutorials), and modified to be used with an example Part-of-Speech tagging task using the Brown Corpus with the Universal Tagset.  
 
 
