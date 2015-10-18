@@ -53,7 +53,7 @@ These labs use [Fuel](http://fuel.readthedocs.org/en/latest/setup.html) to build
 ***Memory and Disk Space Management***
 If you are using the Virtual Machine provided for the exercises, you may find the available memory getting low. Once you have worked through a notebook, you can close it to free up the RAM used by that kernel. 
 
-***Dataset Description
+***Dataset Description***
 TODO
 
 
