@@ -45,7 +45,6 @@ cd dl4mt_exercises/notebooks/day1
 ipython notebook
 ```
 
-
 Please also make sure that you are using the bleeding edge version of theano from github. Installation instructions are [here](http://deeplearning.net/software/theano/install_ubuntu.html#bleeding-edge-installs). 
 
 These labs use [Fuel](http://fuel.readthedocs.org/en/latest/setup.html) to build, load, and iterate over datasets, please install that first. 
@@ -54,7 +53,9 @@ These labs use [Fuel](http://fuel.readthedocs.org/en/latest/setup.html) to build
 If you are using the Virtual Machine provided for the exercises, you may find the available memory getting low. Once you have worked through a notebook, you can close it to free up the RAM used by that kernel. 
 
 ***Dataset Description***
-TODO
+You can see how our toy POS tagging dataset is created (and create your own versions) by looking at these notebooks:     
+- notebooks/datasets/prep_pos_corpus.ipynb
+- notebooks/datasets/word_window_vectors.ipynb
 
 
 ***Resources and Inspirations Used to Create these Tutorials***
