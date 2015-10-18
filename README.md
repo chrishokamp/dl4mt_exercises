@@ -60,6 +60,6 @@ You can see how our toy POS tagging dataset is created (and create your own vers
 
 ***Resources and Inspirations Used to Create these Tutorials***
 
-Most of the Theano code in these tutorials was taken from the [excellent tutorials on deeplearning.net](https://github.com/lisa-lab/DeepLearningTutorials), and modified to be used with an example Part-of-Speech tagging task using the Brown Corpus with the Universal Tagset.  
+Most of the Theano code in these tutorials was taken from the [excellent tutorials on deeplearning.net](https://github.com/lisa-lab/DeepLearningTutorials), and modified to be used with an example Part-of-Speech tagging task using the [Brown Corpus](https://en.wikipedia.org/wiki/Brown_Corpus) with the [Universal Tagset POS tags](https://github.com/slavpetrov/universal-pos-tags).  
 
 
