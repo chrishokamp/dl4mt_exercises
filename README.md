@@ -24,6 +24,13 @@ If you are already familiar with theano, please work through the notebooks in th
 - theano_autoencoder.ipynb
 - stacked_autoencoder.ipynb      
 
+### Day 2
+***Please work through the notebooks in the following order:***
+
+- accmulating_rnn.ipynb
+- create_brown_w2v_index.ipynb
+- recurrent_transition_with_lookup.ipynb
+
 ### Completing the labs
 
 As you work through the notebooks, you will notice that some of the cells use the %%writefile magic at the top of the cell to write the content to a file. This is done for classes and functions which will be used in later notebooks. In order for the save paths to work correctly, you need to be running `ipython notebook` inside the directory for that day. 
